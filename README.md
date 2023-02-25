@@ -1,5 +1,5 @@
 # ebooks
-A collection of Free ebooks related to cybersecurity and programming.
+A collection of Free ebooks related to cybersecurity,programming and more.
 
 * Download your favourite ebooks from release below.
 
